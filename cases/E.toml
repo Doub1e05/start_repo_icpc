@@ -1,0 +1,34 @@
+[[case]]
+name = "TEST 1"
+input = '''
+'''
+expected = '''
+'''
+#
+[[case]]
+name = "TEST 2"
+input = '''
+'''
+expected = '''
+'''
+
+[[case]]
+name = "TEST 3"
+input = '''
+'''
+expected = '''
+'''
+
+[[case]]
+name = "TEST 4"
+input = '''
+'''
+expected = '''
+'''
+
+[[case]]
+name = "TEST 5"
+input = '''
+'''
+expected = '''
+'''
